@@ -3,15 +3,14 @@
 👀 I’m interested in:
 
 * Full-stack web development
-* Machine learning
-* Natural language processing
+
 
 🌱 I’m currently learning:
 
 * React
 * Django
 * Javascript
-* TensorFlow
+
 
 💞️ I’m looking to collaborate on:
 
