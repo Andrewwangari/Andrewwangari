@@ -7,9 +7,12 @@
 
 🌱 I’m currently learning:
 
-* React
-* Django
+* Html
+* css
+* Bootstrap
 * Javascript
+* React
+* Nodejs
 
 
 💞️ I’m looking to collaborate on:
